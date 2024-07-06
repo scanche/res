@@ -2997,3 +2997,7 @@
 		"name": "quad9-dnscrypt-ip4-filter-ecs-pri",
 		"name": "dnscrypt.pl-guardian",
 		"name": "quad9-dnscrypt-ip4-filter-pri",
+		"name": "dnscrypt.pl-guardian",
+		"name": "quad9-dnscrypt-ip4-filter-ecs-pri",
+		"name": "quad9-dnscrypt-ip4-filter-pri",
+		"name": "doh.tiar.app",
