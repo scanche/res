@@ -7780,3 +7780,5 @@
   "name": "mullvad-extend-doh",
   "name": "dnscry.pt-ogden-ipv6",
   "name": "mullvad-all-doh",
+		"name": "quad9-dnscrypt-ip4-filter-pri",
+		"name": "quad9-dnscrypt-ip4-filter-ecs-pri",
